@@ -14,4 +14,4 @@ Using R, I divided the data into training, verification, and testing sets. I spl
 If I were to continue on this project, I would compare the AUC to the precision-recall curce. Due to the importance of classifying True Positives in the very sparse fraud data, the precision-recall curve would be uniquely suited as a target. Additionally, it would be interesting to allow machine learning techniques more say in the creation of features. I would be very interested in applying a recurrent neural network as a form of deep learning selection of classifiers. This would be impossible on this dataset (as the data has been anonymized) but might be of interest to companies with real data.
 
 ## Contents
-All code is contained in the Fraud\_Detection\_Measurement.R file. The SHURTLEFF-POSTER file contains a high-level summary of some of the results. The dataset can be downloaded here(https://www.kaggle.com/dalpozz/creditcardfraud).
+All code is contained in the Fraud\_Detection\_Measurement.R file. The SHURTLEFF-POSTER file contains a high-level summary of some of the results. The dataset can be downloaded [here](https://www.kaggle.com/dalpozz/creditcardfraud).
